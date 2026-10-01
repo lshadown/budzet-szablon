@@ -49,6 +49,6 @@ Duży plik do LB13: `java narzedzia/GenerateBigCsv.java big.csv 200000`.
 
 ## Zasady
 
-- Po każdym laboratorium commit i tag `lbNN` (np. `git tag lb03 && git push origin main --tags`).
+- Po każdym laboratorium commit i tag `lbNN` (np. `git tag lb03 && git push origin main --tags`), potem ZIP z tagu do Moodle.
 - Rozgrzewki w pakiecie `warmup.lbNN`.
 - Pakiety `model` i `service` nie importują `javax.swing`.
