@@ -53,4 +53,4 @@ Duży plik do LB13: `java narzedzia/GenerateBigCsv.java big.csv 200000`.
 - Rozgrzewki w pakiecie `warmup.lbNN`.
 - Pakiety `model` i `service` nie importują `javax.swing`.
 
-Pełne zasady i punktacja: repozytorium przedmiotu, katalog `organizacja/`.
+Pełne zasady i punktacja: repozytorium przedmiotu https://github.com/lshadown/java-zut, katalog `organizacja/`.
