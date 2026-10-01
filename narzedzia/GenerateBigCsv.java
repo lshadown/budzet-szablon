@@ -1,4 +1,4 @@
-// Generator dużego pliku CSV do LB13.
+// Generator dużego pliku CSV do LB10 i LB12.
 // Uruchomienie: java narzedzia/GenerateBigCsv.java big.csv 200000
 
 import java.nio.file.Files;

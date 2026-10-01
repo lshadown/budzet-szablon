@@ -34,7 +34,7 @@ pl.zut.budget
   ui.swing     MainFrame, TransactionTableModel, TransactionFormPanel
   Main
 warmup
-  lb01 ... lb14   rozgrzewki
+  lb01 ... lb13   rozgrzewki
 ```
 
 ## Format CSV
@@ -45,7 +45,7 @@ date;type;amount;category;description
 ```
 
 Przykładowe dane: `src/main/resources/sample.csv`.
-Duży plik do LB13: `java narzedzia/GenerateBigCsv.java big.csv 200000`.
+Duży plik do LB10 i LB12: `java narzedzia/GenerateBigCsv.java big.csv 200000`.
 
 ## Zasady
 
