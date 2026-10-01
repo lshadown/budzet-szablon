@@ -52,5 +52,3 @@ Duży plik do LB13: `java narzedzia/GenerateBigCsv.java big.csv 200000`.
 - Po każdym laboratorium commit i tag `lbNN` (np. `git tag lb03 && git push origin main --tags`).
 - Rozgrzewki w pakiecie `warmup.lbNN`.
 - Pakiety `model` i `service` nie importują `javax.swing`.
-
-Pełne zasady i punktacja: repozytorium przedmiotu https://github.com/lshadown/java-zut, katalog `organizacja/`.
